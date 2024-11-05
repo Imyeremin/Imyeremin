@@ -23,14 +23,12 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<!-- <h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался с самостоятельного изучения Html и Css. Далее, погружаясь все глубже, я определил для себя направление, в котором мне интересно развиваться.
-Начал посещать курсы в 📚Компьютерной Академии TOP по направлению Frontend. В данный момент занимаюсь активным изучение JavaScript и React⚡.</p>
-
-###
+<p align="left">
+### -->
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
@@ -50,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" /><span>in progress</span>
+  <img width="12" />
   </div>
   
 ###
